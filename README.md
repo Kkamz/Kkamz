@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ## stat📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=유저이름&&show_icons=true&theme=테마이름)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkamz&&show_icons=true&theme=dracula)

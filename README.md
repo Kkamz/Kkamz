@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=📌I am Kkamz&fontSize=90)
 
 
-<h3 align="center"> 📚 Tech Stack 📚</h3>
+### 📚 Tech Stack 📚
+
 <p align="center">
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 	![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)

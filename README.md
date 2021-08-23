@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ### Two Time Click👇 And Check My Badges
   ![https://www.hackerrank.com/alal889](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/alal889)
   
-### Programmers stat 🎓
+### 🎓 Programmers Stat 🎓
    
    ##### Rank : 7285
    ##### Get Score : 1292
    ##### Solve Quest : 95
    ##### Update : 2021-08-23
 
-### stat📊
+### 📊 Github Stat 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamz&&show_icons=true&theme=dracula)
 

@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### Two Time Click👇 And Check My Badges
   ![https://www.hackerrank.com/alal889](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/alal889)
   
-
+### P
 	 
 
 ### stat📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkamz&&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamz&&show_icons=true&theme=dracula)
 

@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   ##### Point: 720
   ##### Badges: Gold Level
   ##### Link : https://www.hackerrank.com/alal889
+  ##### Update : 2021-09-02
   
 ### 🎓 Programmers Stat 🎓
    

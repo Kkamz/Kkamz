@@ -28,8 +28,12 @@ Here are some ideas to get you started:
  	 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  	 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Two Time Click👇 And Check My Badges
+### Hackerank - SQL
   ![https://www.hackerrank.com/alal889](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/alal889)
+  ##### Rank : 53671
+  ##### Point: 720
+  ##### Badges: Gold Level
+  ##### Link : https://www.hackerrank.com/alal889
   
 ### 🎓 Programmers Stat 🎓
    

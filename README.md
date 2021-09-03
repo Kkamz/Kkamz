@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   
 ### 🎓 Programmers Stat 🎓
    
-   ##### Rank : 6261
-   ##### Get Score : 1315
-   ##### Solve Quest : 101
-   ##### Update : 2021-09-01
+   ##### Rank : 6243
+   ##### Get Score : 1316
+   ##### Solve Quest : 102
+   ##### Update : 2021-09-03
 
 ### 📊 Github Stat 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamz&&show_icons=true&theme=dracula)

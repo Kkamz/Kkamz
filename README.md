@@ -38,9 +38,9 @@ Here are some ideas to get you started:
   
 ### 🎓 Programmers Stat 🎓
    
-   ##### Rank : 6234
-   ##### Get Score : 1317
-   ##### Solve Quest : 103
+   ##### Rank : 5752
+   ##### Get Score : 1327
+   ##### Solve Quest : 104
    ##### Update : 2021-09-06
 
 ### 📊 Github Stat 📊

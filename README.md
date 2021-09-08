@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ### Hackerank - SQL
   ![https://www.hackerrank.com/alal889](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/alal889)
-  ##### Rank : 28642
-  ##### Point: 870
+  ##### Rank : 26004
+  ##### Point: 900
   ##### Badges: Gold Level
   ##### Link : https://www.hackerrank.com/alal889
-  ##### Update : 2021-09-08
+  ##### Update : 2021-09-09
   
 ### 🎓 Programmers Stat 🎓
    

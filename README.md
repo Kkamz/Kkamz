@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 😄 I'm Joon hyung aka Kkamz
+### 😄 I'm Joon Hyung aka Kkamz
 ### 🤔 I'm studying about Data 
 
 <!--

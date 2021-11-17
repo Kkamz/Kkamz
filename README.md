@@ -36,12 +36,12 @@ Here are some ideas to get you started:
   ##### Link : https://www.hackerrank.com/alal889
   ##### Update : 2021-1-16
   
-### 🎓 Programmers Stat 🎓
+### 🎓 Programmers Stat 🎓 -Python & SQL
    
-   ##### Rank : 4089(in the 95th percentile)
-   ##### Get Score : 1385
-   ##### Solve Quest : 118
-   ##### Update : 2021-11-16
+   ##### Rank : 3568(in the 95th percentile)
+   ##### Get Score : 1400
+   ##### Solve Quest : 121
+   ##### Update : 2021-11-17
 
 ### 📊 Github Stat 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamz&&show_icons=true&theme=dracula)

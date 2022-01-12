@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   
 ### 🎓 Programmers Stat 🎓 -Python & SQL
    
-   ##### Rank : 3568(in the 95th percentile)
-   ##### Get Score : 1400
-   ##### Solve Quest : 121
-   ##### Update : 2021-11-17
+   ##### Rank : 2770(in the 95th percentile)
+   ##### Get Score : 1434
+   ##### Solve Quest : 135
+   ##### Update : 2022-01-12
 
 ### 📊 Github Stat 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamz&&show_icons=true&theme=dracula)

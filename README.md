@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 ### 🎓 Programmers Stat 🎓 -Python & SQL
    
-   ##### Rank : 2770(in the 95th percentile)
+   ##### Rank : 2595(in the 95th percentile)
    ##### Get Score : 1434
    ##### Solve Quest : 135
    ##### Update : 2022-01-12

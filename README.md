@@ -40,8 +40,8 @@ Here are some ideas to get you started:
    
    ##### Rank : 2595(in the 95th percentile)
    ##### Get Score : 1434
-   ##### Solve Quest : 135
-   ##### Update : 2022-01-12
+   ##### Solve Quest : 136
+   ##### Update : 2022-01-22
 
 ### 📊 Github Stat 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkamz&&show_icons=true&theme=dracula)

@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 	![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 	
 ### My Tableau Public
-![https://public.tableau.com/app/profile/kjh3805](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) : https://public.tableau.com/app/profile/kjh3805
 
 ### Hackerank - SQL
   ![https://www.hackerrank.com/alal889](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/alal889)

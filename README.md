@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 😄 I'm Joon Hyung aka Kkamz
 ### 🤔 I'm studying about Data 
+### 📊 I'm Data Analyst in Krafton
 
 <!--
 **Kkamz/Kkamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
